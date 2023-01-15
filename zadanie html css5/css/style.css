@@ -1,0 +1,38 @@
+
+
+h1.kolor {
+    background-color: rgb(5, 42, 33);
+}
+
+p.kolor1{
+    background-color: blueviolet;
+}
+h3.kolor3{
+    background-color: aqua;
+}
+p.kolor4 {
+    background-color: coral;
+
+}
+
+li.tekst1 {
+    color: blue;
+}
+ol.kolor5 {
+   background-color: aquamarine;
+}
+
+.tekst2 {
+    color: aqua;
+}
+.tekst3 {
+    color: aqua;
+}
+.teskt4 {
+    color: crimson;
+}
+.tekst5 {
+    color: darkgreen;
+}
+
+

@@ -1,0 +1,38 @@
+section.tło {
+    
+    width: 350px;
+    height: 600px;
+    background-color: #f5f5dd ;
+    
+}
+#kwadrat1 {
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    background-color: black;
+}
+
+#kwadrat2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    background-color: black;
+}
+#kwadrat3 {
+width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    background-color: black;
+}
+#kwadrat4 {
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    background-color: black;
+
+   
+}

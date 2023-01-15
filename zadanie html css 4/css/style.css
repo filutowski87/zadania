@@ -18,21 +18,21 @@ section.tło {
     height: 100px;
     margin-left: 120px;
     margin-bottom: 10px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.662);
 }
 #kwadrat3 {
 width: 100px;
     height: 100px;
     margin-left: 120px;
     margin-bottom: 10px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.279);
 }
 #kwadrat4 {
     width: 100px;
     height: 100px;
     margin-left: 120px;
     margin-bottom: 10px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.053);
 
    
 }

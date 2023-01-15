@@ -1,0 +1,23 @@
+h1.tytuł {
+    background-color: blue;
+
+}
+h3.Nagłówek {
+    background-color: blueviolet;
+
+
+}
+p.paragraf1 {
+    color: aqua;
+}
+h3.Nagłowek2 {
+    background-color: brown;
+
+}
+p.paragraf2 {
+    color: crimson;
+}
+h1 + h3.Nagłówek {
+    color: gold;
+
+}

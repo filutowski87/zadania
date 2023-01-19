@@ -1,30 +1,13 @@
-section.szare_tło {
+section.szare_tlo {
     width: 250px;
     height: 600px;
     background-color: gray;
 }
 
-.kwadrat1 { 
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
-    background-color: orange;
-}
-.kwadrat2 { 
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
-    background-color: orange;
-}
-.kwadrat3 {
+.kwadrat { 
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
     background-color: orange;
 }
 
-.kwadrat4 { 
-    width: 100px;
-    height: 100px;
-    background-color: orange;
-}

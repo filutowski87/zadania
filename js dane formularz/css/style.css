@@ -1,0 +1,19 @@
+form {
+    background-color: blueviolet;
+    width: 300px;
+}
+
+input {
+    background-color: aqua;
+    margin: 20px;
+    width: auto;
+    
+   
+}
+button {
+    cursor: pointer;
+    background-color: blue;
+    width: auto;
+    
+
+}

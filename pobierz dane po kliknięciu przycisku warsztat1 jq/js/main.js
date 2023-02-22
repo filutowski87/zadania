@@ -29,12 +29,13 @@ const getData = () => {
 
         console.log(data);
         
+        
         })
         .catch(error => {
             console.error(error);
         });
 
-
+};
 
  btngetdata.addEventListener('click', getData);
 
